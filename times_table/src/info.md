@@ -1,6 +1,6 @@
 <details><summary>코드보기</summary>
-```
-import java.util.Scanner;
+    
+```import java.util.Scanner;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -67,10 +67,8 @@ public class Main {
     public static void main(String[] args) {
         Gui gui = new Gui();
     }
-}
-```
+}```
 </details>
-
 ## 구구단
 Java 강의를 시청하며 단순히 코드를 따라 치는 것이 아닌,실전 같은 환경에서 빠르게 학습하는 것을 목표로 삼았습니다. 
 마침 for문을 공부하고 있어서, 구구단 프로그램을 간단하게 만들어 보기로 했습니다. 
