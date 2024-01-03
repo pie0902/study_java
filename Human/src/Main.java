@@ -53,9 +53,9 @@ public class Main {
         String choose;
         List<String>askList = new ArrayList<>();
         Collections.addAll(askList,"오버라이딩","오버로딩");
-        Human yun = new Human("윤종일", "학생");
-        Tutor kim = new Tutor("김창용", "튜터");
-        Tutor heo = new Tutor("허지희", "튜터");
+        Human yun = new Human("학생1", "학생");
+        Tutor kim = new Tutor("튜터1", "튜터");
+        Tutor heo = new Tutor("튜터2", "튜터");
         System.out.println("team : " + yun.getTeam() + "\nname : " + yun.getName() + "\ntype : " + yun.getType());
         System.out.println("team : " + kim.getTeam() + "\nname : " + kim.getName() + "\ntype : " + kim.getType());
         System.out.println("team : " + heo.getTeam() + "\nname : " + heo.getName() + "\ntype : " + heo.getType() + "\n");
