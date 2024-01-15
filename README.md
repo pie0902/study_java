@@ -11,3 +11,4 @@
 |키오스크|Enum/StringBuffer|[설명보러가기](https://github.com/pie0902/kiosk)|[코드보러가기](https://github.com/pie0902/kiosk/tree/main/src)|
 |타이머|Thread/예외처리|[설명보러가기](https://github.com/pie0902/study_java/tree/main/thread_practice)|[코드보러가기](https://github.com/pie0902/study_java/tree/main/thread_practice/src)|
 |서점|Stream|[설명보러가기](https://github.com/pie0902/study_java/tree/main/library)|[코드보러가기](https://github.com/pie0902/study_java/tree/main/library/src)|
+|학생 관리 프로그램 | HashMap/객체이해|[설명보러가기](https://github.com/pie0902/studentAdmin)|[코드보러가기](#)|
